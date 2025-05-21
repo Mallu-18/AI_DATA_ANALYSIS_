@@ -1,0 +1,6 @@
+2025-04-30 13:35:59,692 - Step: Min-Max Scaling, Details: {'min': array([10.,  1.]), 'max': array([50.,  5.])}
+2025-04-30 13:35:59,695 - Step: Robust Scaling, Details: {'median': array([30.,  3.]), 'IQR': array([20.,  2.])}
+2025-04-30 13:35:59,698 - Step: MaxAbs Scaling, Details: {'max_abs': array([50.,  5.])}
+2025-04-30 13:43:33,481 - Step: Min-Max Scaling, Details: {'min': array([10.,  1.]), 'max': array([50.,  5.])}
+2025-04-30 13:43:33,506 - Step: Robust Scaling, Details: {'median': array([30.,  3.]), 'IQR': array([20.,  2.])}
+2025-04-30 13:43:33,514 - Step: MaxAbs Scaling, Details: {'max_abs': array([50.,  5.])}
